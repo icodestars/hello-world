@@ -1,0 +1,8 @@
+#mark png files as binary
+*.png binary
+
+#mark jpeg files as binary
+*jpeg binary
+
+#custom diff for md files
+*.md diff=markdown
